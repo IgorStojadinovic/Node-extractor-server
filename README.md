@@ -24,12 +24,15 @@ Usage
 }
 
 ```
+-Methods
 ```
-  -Methods
-  -GET
-  
-  -Routes
-  -/keywords
-  -/phreses
+ -GET
 
 ```
+  -Routes
+```
+  /keywords
+  /phreses
+
+```
+
