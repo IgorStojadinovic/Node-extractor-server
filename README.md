@@ -9,7 +9,8 @@ Requirements
  - Python 3.7 or 3.11
  - NLTK YAKE
  - Postman
- Installation
+
+Installation
  pip install yake
  $ npm install
  $ npm start
