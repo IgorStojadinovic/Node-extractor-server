@@ -5,8 +5,8 @@
 Node server that extracts keywords and phrases from given text.
 
 ## Requirements
-  Python 3.7 or 3.11
-  NLTK YAKE
+ - Python 3.7 or 3.11
+ - NLTK YAKE
   
 ```
 pip install yake
