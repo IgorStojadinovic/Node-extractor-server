@@ -1,6 +1,6 @@
 #Node extractor server
 
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs,express,javascript,&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs,express,javascript,python,&theme=dark)](https://skills.thijs.gg)
 
 Node server that extracts keywords and phrases from given text.
 
